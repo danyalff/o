@@ -1,6 +1,6 @@
 import threading
 
-f=open('/content/o/o/data.txt')
+f=open('d')
 lines=f.readlines()
 c = -1
 
